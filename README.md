@@ -2,6 +2,9 @@
 *aka jay-tux*  
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ![GH Stats](https://github-readme-stats.vercel.app/api?username=jay-tux&count_private=true&show_icons=true&theme=outrun)
