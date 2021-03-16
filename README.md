@@ -15,16 +15,19 @@
 [![Language: Aves](https://img.shields.io/badge/language-aves-lightgray?style=plastic)](https://github.com/jay-tux)  
 [![Also Awesome: Assimp](https://img.shields.io/badge/Also_Awesome-Assimp-yellow?style=plastic&logo=github)](https://github.com/assimp/assimp)
 [![Also Awesome: yay](https://img.shields.io/badge/Also_Awesome-yay-yellow?style=plastic&logo=github)](https://github.com/Jguer/yay)
-[![Also Awesome: polybar](https://img.shields.io/badge/Also_Awesome-polybar-yellow?style=plastic&logo=github)](https://github.com/polybar/polybar)
+[![Also Awesome: polybar](https://img.shields.io/badge/Also_Awesome-polybar-yellow?style=plastic&logo=github)](https://github.com/polybar/polybar)  
+[![Great Dev: Steven Selolo](https://img.shields.io/badge/Great_Dev-Steven_Selolo-red?style=plastic&logo=github)](https://github.com/StevenPss)
+[![Great Dev: Avery Mapes](https://img.shields.io/badge/Great_Dev-Avery_Mapes-red?style=plastic&logo=github)](https://github.com/ArchAves)
+[![Great Dev: Jan-Pieter Baert](https://img.shields.io/badge/Great_Dev-Jan--Pieter_Baert-red?style=plastic&logo=github)](https://github.com/Jan-PieterBaert)
 
 
 <!--START_SECTION:waka-->
 ```text
-C++        59 mins         ███████████▓░░░░░░░░░░░░░   47.25 % 
-Markdown   37 mins         ███████▓░░░░░░░░░░░░░░░░░   30.02 % 
-C          21 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Kotlin     5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+C++        59 mins         ███████████▓░░░░░░░░░░░░░   47.25 %
+Markdown   37 mins         ███████▓░░░░░░░░░░░░░░░░░   30.02 %
+C          21 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
+Kotlin     5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 <!--END_SECTION:waka-->
 
