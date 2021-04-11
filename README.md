@@ -23,10 +23,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   7 hrs 50 mins   ████████████████▓░░░░░░░░   66.19 % 
-Markdown     3 hrs           ██████▒░░░░░░░░░░░░░░░░░░   25.36 % 
-Kotlin       51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-XML          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+JavaScript   4 hrs 26 mins   ██████████▒░░░░░░░░░░░░░░   40.91 % 
+Haskell      4 hrs 8 mins    █████████▓░░░░░░░░░░░░░░░   38.18 % 
+Markdown     2 hrs 9 mins    █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 <!--END_SECTION:waka-->
 
