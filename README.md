@@ -3,7 +3,7 @@
 [![OS: Arch Linux](https://img.shields.io/badge/os-Arch_Linux-success?style=plastic&logo=arch-linux)](https://archlinux.org)
 [![WM: i3](https://img.shields.io/badge/wm-i3-success?style=plastic)](https://i3wm.org)
 [![Editor: Atom](https://img.shields.io/badge/editor-Atom-success?style=plastic&logo=atom)](https://atom.io)
-[![Project: Aves](https://img.shields.io/badge/project-AVES-success?style=plastic&logo=accenture)](https://github.com/jay-tux)  
+[![Project: JayIO](https://img.shields.io/badge/project-JayIO-success?style=plastic&logo=accenture)](https://github.com/jay-tux/jayio)  
 [![Discord: @𝓙𝓪𝔂#4722](https://img.shields.io/badge/discord-%40%F0%9D%93%99%F0%9D%93%AA%F0%9D%94%82%234722-blue?style=plastic&logo=discord)](https://github.com/jay-tux)
 [![Twitter: @JayDevReal](https://img.shields.io/badge/twitter-%40JayDevReal-blue?style=plastic&logo=twitter)](https://twitter.com/JayDevReal)
 [![DeviantArt: jay-tux](https://img.shields.io/badge/deviantart-jay--tux-blue?style=plastic&logo=deviantart)](https://deviantart.com/jay-tux)
@@ -23,10 +23,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   4 hrs 26 mins   ██████████▒░░░░░░░░░░░░░░   40.91 % 
-Haskell      4 hrs 8 mins    █████████▓░░░░░░░░░░░░░░░   38.18 % 
-Markdown     2 hrs 9 mins    █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+JavaScript   4 hrs 26 mins   ██████████▒░░░░░░░░░░░░░░   40.91 %
+Haskell      4 hrs 8 mins    █████████▓░░░░░░░░░░░░░░░   38.18 %
+Markdown     2 hrs 9 mins    █████░░░░░░░░░░░░░░░░░░░░   19.82 %
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 <!--END_SECTION:waka-->
 
