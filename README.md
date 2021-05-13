@@ -3,7 +3,7 @@
 [![OS: Arch Linux](https://img.shields.io/badge/os-Arch_Linux-success?style=plastic&logo=arch-linux)](https://archlinux.org)
 [![WM: i3](https://img.shields.io/badge/wm-i3-success?style=plastic)](https://i3wm.org)
 [![Editor: Atom](https://img.shields.io/badge/editor-Atom-success?style=plastic&logo=atom)](https://atom.io)
-[![Project: JayIO](https://img.shields.io/badge/project-JayIO-success?style=plastic&logo=accenture)](https://github.com/jay-tux/jayio)  
+[![Project: none (uni QwQ)](https://img.shields.io/badge/project-none_uni_takes_all_my_time-success?style=plastic&logo=accenture)](https://github.com/jay-tux/)  
 [![Discord: @𝓙𝓪𝔂#4722](https://img.shields.io/badge/discord-%40%F0%9D%93%99%F0%9D%93%AA%F0%9D%94%82%234722-blue?style=plastic&logo=discord)](https://github.com/jay-tux)
 [![Twitter: @JayDevReal](https://img.shields.io/badge/twitter-%40JayDevReal-blue?style=plastic&logo=twitter)](https://twitter.com/JayDevReal)
 [![DeviantArt: jay-tux](https://img.shields.io/badge/deviantart-jay--tux-blue?style=plastic&logo=deviantart)](https://deviantart.com/jay-tux)
