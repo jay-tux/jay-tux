@@ -18,7 +18,8 @@
 [![Also Awesome: polybar](https://img.shields.io/badge/Also_Awesome-polybar-yellow?style=plastic&logo=github)](https://github.com/polybar/polybar)  
 [![Great Dev: Steven Selolo](https://img.shields.io/badge/Great_Dev-Steven_Selolo-red?style=plastic&logo=github)](https://github.com/StevenPss)
 [![Great Dev: Avery Mapes](https://img.shields.io/badge/Great_Dev-Avery_Mapes-red?style=plastic&logo=github)](https://github.com/ArchAves)
-[![Great Dev: Jan-Pieter Baert](https://img.shields.io/badge/Great_Dev-Jan--Pieter_Baert-red?style=plastic&logo=github)](https://github.com/Jan-PieterBaert)
+[![Great Dev: Jan-Pieter Baert](https://img.shields.io/badge/Great_Dev-Jan--Pieter_Baert-red?style=plastic&logo=github)](https://github.com/Jan-PieterBaert)  
+[![wakatime](https://wakatime.com/badge/github/jay-tux/jay-tux.svg)](https://wakatime.com/badge/github/jay-tux/jay-tux)
 
 
 <!--START_SECTION:waka-->
