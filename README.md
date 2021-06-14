@@ -11,7 +11,7 @@
 [![Language: C](https://img.shields.io/badge/language-C-lightgray?style=plastic&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Language: C](https://img.shields.io/badge/language-C++-lightgray?style=plastic&logo=c%2B%2B)](https://www.cplusplus.com/)
 [![Language: C#](https://img.shields.io/badge/language-C%23-lightgray?style=plastic&logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Language: Haskell](https://img.shields.io/badge/language-Haskell-lightgray?style=plastic&logo=haskell)](https://www.haskell.org/)
+[![Language: Haskell](https://img.shields.io/badge/language-Haskell-lightgray?style=plastic&logo=haskell)](https://www.haskell.org/)  
 [![Also Awesome: Assimp](https://img.shields.io/badge/Also_Awesome-Assimp-yellow?style=plastic&logo=github)](https://github.com/assimp/assimp)
 [![Also Awesome: yay](https://img.shields.io/badge/Also_Awesome-yay-yellow?style=plastic&logo=github)](https://github.com/Jguer/yay)
 [![Also Awesome: polybar](https://img.shields.io/badge/Also_Awesome-polybar-yellow?style=plastic&logo=github)](https://github.com/polybar/polybar)  
