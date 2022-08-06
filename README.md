@@ -2,8 +2,6 @@
 *aka jay-tux*  
 [![OS: Arch Linux](https://img.shields.io/badge/os-Arch_Linux-success?style=plastic&logo=arch-linux)](https://archlinux.org)
 [![WM: i3](https://img.shields.io/badge/wm-i3-success?style=plastic)](https://i3wm.org)
-[![Editor: Atom](https://img.shields.io/badge/editor-Atom-success?style=plastic&logo=atom)](https://atom.io)
-[![Project: RSLC](https://img.shields.io/badge/project-rslc-success?style=plastic&logo=accenture)](https://github.com/jay-tux/rslc/)  
 [![Discord: @𝓙𝓪𝔂#4722](https://img.shields.io/badge/discord-%40%F0%9D%93%99%F0%9D%93%AA%F0%9D%94%82%234722-blue?style=plastic&logo=discord)](https://github.com/jay-tux)
 [![Twitter: @JayDevReal](https://img.shields.io/badge/twitter-%40JayDevReal-blue?style=plastic&logo=twitter)](https://twitter.com/JayDevReal)
 [![DeviantArt: jay-tux](https://img.shields.io/badge/deviantart-jay--tux-blue?style=plastic&logo=deviantart)](https://deviantart.com/jay-tux)
@@ -17,6 +15,8 @@
 [![Also Awesome: polybar](https://img.shields.io/badge/Also_Awesome-polybar-yellow?style=plastic&logo=github)](https://github.com/polybar/polybar)  
 [![Great Dev: Jan-Pieter Baert](https://img.shields.io/badge/Great_Dev-Jan--Pieter_Baert-red?style=plastic&logo=github)](https://github.com/Jan-PieterBaert)  
 [![wakatime](https://wakatime.com/badge/github/jay-tux/jay-tux.svg)](https://wakatime.com/badge/github/jay-tux/jay-tux)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B2E8NN8)
 
 
 <!--START_SECTION:waka-->
